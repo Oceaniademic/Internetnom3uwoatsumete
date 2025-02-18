@@ -12,7 +12,7 @@ http://223.110.241.203:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1 ,CCTV5+高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 ,CCTV-6高清
-http://223.110.241.203:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
 #EXTINF:-1 ,CCTV7高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 ,CCTV-8高清
@@ -22,21 +22,21 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 ,CCTV10高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 ,CCTV-11戏曲
-http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000011/index.m3u8
 #EXTINF:-1 ,CCTV12高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1 ,CCTV-13新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000013/index.m3u8
 #EXTINF:-1 ,CCTV-14少儿
-http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000014/index.m3u8
 #EXTINF:-1 ,CCTV-15音乐
-http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 ,山东卫视高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1 ,泰安综合高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 #EXTINF:-1 ,泰安公共
-http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 #EXTINF:-1 ,济南新闻综合高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 ,山东公共高清
@@ -86,29 +86,29 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 #EXTINF:-1 ,贵州卫视高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8                                                                            金鹰纪实高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,旅游卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000030/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
 #EXTINF:-1 ,云南卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000039/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000039/index.m3u8
 #EXTINF:-1 ,重庆卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000023/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000023/index.m3u8
 #EXTINF:-1 ,吉林卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000036/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000036/index.m3u8
 #EXTINF:-1 ,江西卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000035/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000035/index.m3u8
 #EXTINF:-1 ,山西卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000032/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
 #EXTINF:-1 ,陕西卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000029/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
 #EXTINF:-1 ,四川卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000033/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000033/index.m3u8
 #EXTINF:-1 ,广西卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000038/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000038/index.m3u8
 #EXTINF:-1 ,甘肃卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000046/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
 #EXTINF:-1 ,宁夏卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000043/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
 #EXTINF:-1 ,青海卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000042/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
 #EXTINF:-1 ,西藏卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000045/index.m3u8
 #EXTINF:-1 ,新疆卫视
@@ -152,57 +152,57 @@ http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 #EXTINF:-1 ,CCTV-15
 http://223.110.241.203:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:-1 ,天津卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000021/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000021/index.m3u8
 #EXTINF:-1 ,河北卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000034/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000034/index.m3u8
 #EXTINF:-1 ,湖北卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000031/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000031/index.m3u8
 #EXTINF:-1 ,贵州卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000041/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000041/index.m3u8
 #EXTINF:-1 ,深圳卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000308/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1 ,山东卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000051/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 ,湖南卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000017/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000017/index.m3u8
 #EXTINF:-1 ,浙江卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000016/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
 #EXTINF:-1 ,江苏卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000018/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
 #EXTINF:-1 ,安徽卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000020/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000020/index.m3u8
 #EXTINF:-1 ,北京卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000019/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000019/index.m3u8
 #EXTINF:-1 ,东方卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000022/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
 #EXTINF:-1 ,深圳卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000024/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000024/index.m3u8
 #EXTINF:-1 ,辽宁卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000026/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000026/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000027/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
 #EXTINF:-1 ,广东卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000025/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000025/index.m3u8
 #EXTINF:-1 ,东南卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000028/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000028/index.m3u8
 #EXTINF:-1 ,CCTV-NEWS
-http://39.137.76.32:8089/00/SNM/CHANNEL00000009/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1 ,山东教育
-http://39.137.76.32:8089/00/SNM/CHANNEL10000062/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL10000062/index.m3u8
 #EXTINF:-1 ,山东齐鲁
-http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 ,百姓健康
-http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000602/index.m3u8
 #EXTINF:-1 ,央视健康
-http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000603/index.m3u8
 #EXTINF:-1 ,美食天府
-http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000604/index.m3u8
 #EXTINF:-1 ,休闲指南
-http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
 #EXTINF:-1 ,中国天气
-http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 ,家政
-http://39.137.76.32:8089/00/SNM/CHANNEL00000610/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000610/index.m3u8
 #EXTINF:-1 ,电子体育
 http://39.137.76.32:8089/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1 ,人物频道
@@ -222,23 +222,23 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1 ,怀旧剧场
 http://39.137.76.32:8089/00/SNM/CHANNEL00000622/index.m3u8
 #EXTINF:-1 ,老故事
-http://39.137.76.32:8089/00/SNM/CHANNEL00000624/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000624/index.m3u8
 #EXTINF:-1 ,新科动漫
-http://39.137.76.32:8089/00/SNM/CHANNEL00000625/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000625/index.m3u8
 #EXTINF:-1 ,早期教育
-http://39.137.76.32:8089/00/SNM/CHANNEL00000627/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000627/index.m3u8
 #EXTINF:-1 ,环球奇观
-http://39.137.76.32:8089/00/SNM/CHANNEL00000628/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000628/index.m3u8
 #EXTINF:-1 ,现代女性
-http://39.137.76.32:8089/00/SNM/CHANNEL00000629/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000629/index.m3u8
 #EXTINF:-1 ,武术世界
-http://39.137.76.32:8089/00/SNM/CHANNEL00000634/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000634/index.m3u8
 #EXTINF:-1 ,文物宝库
-http://39.137.76.32:8089/00/SNM/CHANNEL00000635/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
 #EXTINF:-1 ,国学频道
-http://39.137.76.32:8089/00/SNM/CHANNEL00000636/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000636/index.m3u8
 #EXTINF:-1 ,卫生健康
-http://39.137.76.32:8089/00/SNM/CHANNEL00000639/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000639/index.m3u8
 #EXTINF:-1 ,靓装
 http://39.137.76.32:8089/00/SNM/CHANNEL00000406/index.m3u8
 #EXTINF:-1 ,CCTV-少儿

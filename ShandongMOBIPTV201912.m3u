@@ -12,7 +12,7 @@ http://223.110.241.203:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1 ,CCTV5+高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 ,CCTV-6高清
-http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000006/index.m3u8
 #EXTINF:-1 ,CCTV7高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 ,CCTV-8高清
